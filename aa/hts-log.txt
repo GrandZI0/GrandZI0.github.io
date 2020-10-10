@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Oct 2020 18:20:52 at https://lol.qq.com/act/a20200922competition/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://lol.qq.com/act/a20200922competition/index.html -O1 "C:\Users\86176\Desktop\新建文件夹\AA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:21:04	Error: 	Unable to save file C:/Users/86176/Desktop/新建文件夹/AA/js.aq.qq.com/js/aq_common.js: No such file or directory
+18:21:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 2734 got 0): https://js.aq.qq.com/js/aq_common.js
+18:21:06	Error: 	Unable to save file C:/Users/86176/Desktop/新建文件夹/AA/vm.gtimg.cn/tencentvideo/txp/js/txplayer.js: No such file or directory
+18:21:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 31058 got 0): vm.gtimg.cn/tencentvideo/txp/js/txplayer.js
+18:21:07	Error: 	"Error when decompressing" (-1) at link lol.qq.com/v3/css/topfoot.css (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 2734 expected)) at link https://js.aq.qq.com/js/aq_common.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Error: 	"Error when decompressing" (-1) at link ossweb-img.qq.com/images/js/jquery/jquery-1.9.0.min.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Error: 	"Error when decompressing" (-1) at link ossweb-img.qq.com/images/js/milo_bundle/milo.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Error: 	"Error when decompressing" (-1) at link lol.qq.com/comm-htdocs/js/game_area/lol_server_select.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Error: 	"Error when decompressing" (-1) at link lol.qq.com/v3/js/LOL_Login.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 31058 expected)) at link vm.gtimg.cn/tencentvideo/txp/js/txplayer.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Error: 	"Error when decompressing" (-1) at link game.gtimg.cn/images/js/2018foot/foot.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Error: 	"Error when decompressing" (-1) at link ossweb-img.qq.com/images/js/PTT/ping_tcss_tgideas_https_min.js (from https://lol.qq.com/act/a20200922competition/index.html)
+18:21:28	Error: 	"Error when decompressing" (-1) at link ossweb-img.qq.com/images/spiderMediaData/lol_new/mediaURLData_https.js (from https://lol.qq.com/act/a20200922competition/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 24 links scanned, 13 files written (891228 bytes overall), 13 files updated [930264 bytes received at 25142 bytes/sec], 266911 bytes transferred using HTTP compression in 13 files, ratio 63%, 1.6 requests per connection
+(10 errors, 4 warnings, 0 messages)
