@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-18:19:46	4794/4794	---M-Z	-1	error ('Error%20when%20decompressing')	text/html	date:Sat,%2010%20Oct%202020%2010:10:00%20GMT	https://lol.qq.com/act/a20200922competition/index.html?e_code=507042	C:/Users/86176/Desktop/%e6%96%b0%e5%bb%ba%e6%96%87%e4%bb%b6%e5%a4%b9/aa/lol.qq.com/act/a20200922competition/index4944.html	(from )
-18:19:47	68/68	---M--	200	added ('OK')	text/plain	date:Tue,%2023%20Feb%202010%2008:34:12%20GMT	https://lol.qq.com/robots.txt		(from )
