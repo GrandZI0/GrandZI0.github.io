@@ -29,7 +29,9 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-body {background-image: url(images/a.jpg);}
+body {
+	background-image: url(images/a.jpg);
+}
 ol, ul {
 	list-style: none;
 }
@@ -78,21 +80,10 @@ input, select, textarea {
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
-
-	body {
-		background: #fff;
-	}
-
-		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
-			-moz-animation: none !important;
-			-webkit-animation: none !important;
-			-ms-animation: none !important;
-			animation: none !important;
-			-moz-transition: none !important;
-			-webkit-transition: none !important;
-			-ms-transition: none !important;
-			transition: none !important;
-		}
+body {
+	background-image: url(images/a.jpg);
+}
+	
 
 	body, input, select, textarea {
 		color: #666;
