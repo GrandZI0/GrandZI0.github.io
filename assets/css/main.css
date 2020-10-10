@@ -29,7 +29,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-body {background-image: url(images/a.jpg);}
+body {
+	line-height: 1;
+}
+
 ol, ul {
 	list-style: none;
 }
