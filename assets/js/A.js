@@ -1,1 +1,1 @@
-alert("THIS IS YDX！");
+alert("THIS IS YDX'S WEBPAGE！");
